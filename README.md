@@ -5,4 +5,7 @@
 这个网址，获取免费的api密钥
 
 
+一开始的代码有一些问题
+在修改后的版本中解决了这些问题
+
 <img width="590" alt="image" src="https://github.com/user-attachments/assets/f66badee-2edc-40b4-82d5-48a4c80f1b1f" />
